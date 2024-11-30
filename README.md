@@ -1,2 +1,3 @@
-### HI!!! I AM UNIQUE FLABBERGAST
-## GO TO <a href = "https://uniqueflabbergast.github.io" target = "_blank"> Gorrrila Monk </a>
+### HI!!! Welcome to mathactivities
+## This is a place of wonder and joy
+## GO TO <a href = "https://mathactivities.github.io" target = "_blank"> MathActivities.github.io </a>
